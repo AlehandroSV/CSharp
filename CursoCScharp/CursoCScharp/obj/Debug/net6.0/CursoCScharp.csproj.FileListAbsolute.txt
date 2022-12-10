@@ -1,0 +1,15 @@
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\bin\Debug\net6.0\CursoCScharp.exe
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\bin\Debug\net6.0\CursoCScharp.deps.json
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\bin\Debug\net6.0\CursoCScharp.runtimeconfig.json
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\bin\Debug\net6.0\CursoCScharp.dll
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\bin\Debug\net6.0\CursoCScharp.pdb
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.csproj.AssemblyReference.cache
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.AssemblyInfoInputs.cache
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.AssemblyInfo.cs
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.csproj.CoreCompileInputs.cache
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.dll
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\obj\Debug\net6.0\refint\CursoCScharp.dll
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.pdb
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.genruntimeconfig.cache
+C:\Users\Aleha\Desktop\C#\.vs\CursoCScharp\CursoCScharp\obj\Debug\net6.0\ref\CursoCScharp.dll
