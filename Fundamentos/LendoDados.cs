@@ -1,5 +1,4 @@
-﻿using System;
-using System.Globalization;
+﻿using System.Globalization;
 
 namespace CursoCSharp.Fundamentos {
     internal class LendoDados {
