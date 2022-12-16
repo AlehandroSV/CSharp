@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CursoCSharp.ClassesEMetodos {
+﻿namespace CursoCSharp.ClassesEMetodos {
     class CalculadoraEstatica {
         // Método de instância!
         public int Soma(int a, int b) {
@@ -16,7 +10,7 @@ namespace CursoCSharp.ClassesEMetodos {
             return a * b;
         }
     }
-    
+
     internal class MetodosEstaticos {
         public static void Executar() {
             var resultado = CalculadoraEstatica.Multiplicar(2, 2);

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CursoCSharp.ClassesEMetodos {
+﻿namespace CursoCSharp.ClassesEMetodos {
     class CalculadoraComum {
         public int Somar(int a, int b) {
             return a + b;
@@ -41,7 +35,7 @@ namespace CursoCSharp.ClassesEMetodos {
             return this;
         }
 
-        public int Resultado () {
+        public int Resultado() {
             return memoria;
         }
     }

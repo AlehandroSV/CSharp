@@ -1,26 +1,20 @@
-﻿namespace CursoCSharp.ClassesEMetodos
-{
-    class Carro
-    {
+﻿namespace CursoCSharp.ClassesEMetodos {
+    class Carro {
         public string Modelo;
         public string Fabricante;
         public int Ano;
 
-        public Carro(string modelo, string fabricante, int ano)
-        {
+        public Carro(string modelo, string fabricante, int ano) {
             Modelo = modelo;
             Fabricante = fabricante;
             Ano = ano;
         }
 
-        public Carro()
-        {
+        public Carro() {
         }
     }
-    class Construtores
-    {
-        public static void Executar()
-        {
+    class Construtores {
+        public static void Executar() {
             var carro1 = new Carro();
             carro1.Fabricante = "BMW";
             carro1.Modelo = "325i";
@@ -31,8 +25,7 @@
             var carro2 = new Carro("Ka", "Ford", 2018);
             Console.WriteLine($"{carro2.Fabricante} {carro2.Modelo} {carro2.Ano}");
 
-            var carro3 = new Carro()
-            {
+            var carro3 = new Carro() {
                 Fabricante = "Fiat",
                 Modelo = "Uno",
                 Ano = 2019

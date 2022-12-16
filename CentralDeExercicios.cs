@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace CursoCSharp {
+﻿namespace CursoCSharp {
     public class CentralDeExercicios {
         Dictionary<string, Action> Exercicios;
 
         public CentralDeExercicios(Dictionary<string, Action> exercicios) {
-            Exercicios = exercicios;    
+            Exercicios = exercicios;
         }
 
         public void SelecionarEExecutar() {
@@ -38,7 +34,7 @@ namespace CursoCSharp {
             Action executar = Exercicios.ElementAt(num).Value;
             try {
                 executar();
-            } catch(Exception e) {
+            } catch (Exception e) {
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("Ocorreu um erro: {0}", e.Message);

@@ -1,8 +1,6 @@
-﻿using System;
-
-using CursoCSharp.Fundamentos;
+﻿using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.EstruturaDeControle;
-using CursoCSharp.ClassesEMetodos;
+using CursoCSharp.Fundamentos;
 
 namespace CursoCSharp {
     class Program {
@@ -44,6 +42,10 @@ namespace CursoCSharp {
                 {"Métodos Estáticos - Classes e Métodos", MetodosEstaticos.Executar},
                 {"Atributos Estáticos - Classes e Métodos", AtributosEstaticos.Executar},
                 {"Desafio Atributo - Classes e Métodos", DesafioAtributos.Executar},
+                {"Params - Classes e Métodos", Params.Executar},
+                {"Parametros Nomeados - Classes e Métodos", ParametrosNomeados.Executar},
+                {"Get Set - Classes e Métodos", GetSet.Executar},
+                {"Props - Classes e Métodos", Props.Executar},
             });
 
             central.SelecionarEExecutar();
