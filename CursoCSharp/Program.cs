@@ -5,6 +5,8 @@ using CursoCSharp.Fundamentos;
 using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.Execoes;
+using CursoCSharp.Api;
+using CursoCSharp.TopicosAvancados;
 
 namespace CursoCSharp {
     class Program {
@@ -88,6 +90,24 @@ namespace CursoCSharp {
                 // Exeções
                 { "Primeira Exeção - Exeções", PrimeiraExecao.Executar },
                 { "Exeções Personalizadas - Exeções", ExcesoesPersonalizadas.Executar },
+
+                // Api
+                { "Primeiro Arquivo - Usando Api", PrimeirArquivo.Executar },
+                { "Lendo Arquivos - Usando Api", LendoArquivo.Executar },
+                { "Exemplo FileInfo - Usando Api", ExemploFileInfo.Executar },
+                { "Diretórios - Usando Api", Diretorios.Executar },
+                { "Exemplo DirectoryInfo - Usando Api", ExemploDirectoryInfo.Executar },
+                { "Usando Path - Usando Api", UsandoPath.Executar },
+                { "Exemplo DateTime - Usando Api", ExemploDateTime.Executar },
+                { "Exemplo TimeSpan - Usando Api", ExemploTimeSpan.Executar },
+
+                // Tópicos Avançados
+                { "LINQ #01 - Tópicos Avançados", LINQ1.Executar },
+                { "LINQ #02 - Tópicos Avançados", LINQ2.Executar },
+                { "Nullables - Tópicos Avançados", Nullables.Executar },
+                { "Dynamics - Tópicos Avançados", Dynamics.Executar },
+                { "Generics - Tópicos Avançados", Genericos.Executar },
+
             });
 
             central.SelecionarEExecutar();
